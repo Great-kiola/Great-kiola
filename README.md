@@ -14,4 +14,4 @@
 
 
 ## ⚡ My Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Great-kiola&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Great-kiola&theme=transparent&hide_border=true)](https://git.io/streak-stats)
