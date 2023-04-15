@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Great-kiola
 - 💗 Coding
-- 🌱 I’m currently learning Web Dev @ Skills Bootcamp
-- 💞️ I’m looking to collaborate on Various Projects
+- 🌱 Learnt Web Dev @ Skills Bootcamp , now **addicted** to frontend Mentor
+- 💞️ I’m looking to *collaborate* on Various Projects
 - 📫 Lets Connect on Elon's new Aquisition @Great_Kiola
 
 ````bash
