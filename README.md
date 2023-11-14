@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Great-kiola
 - 💗 Coding
 - 🌱 Learnt Web Dev @ Skills Bootcamp , now **addicted** to frontend Mentor
-- 🎓 Computer science @ [QMUL](https://www.qmul.ac.uk/)
+- 🎓 Computer science @ [Qmul](https://www.qmul.ac.uk/)
 - 💞️ I’m looking to *collaborate* on Various Projects
 - 📫 Lets Connect on Elon's new Aquisition @Great_Kiola
 
