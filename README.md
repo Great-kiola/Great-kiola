@@ -4,11 +4,12 @@
 - 🎓 Computer science @ [Qmul](https://www.qmul.ac.uk/)
 - 💞️ I’m looking to *collaborate* on Various Projects
 - 🍀 Fun fact: I dont need coffee, my bugs keeps me awake
-- 📫 Lets Connect on Elon's new Aquisition @Great_Kiola
 
 ````bash
 > linkedin: Olabode Kilaso
 > github: great-kiola
+> X: great-kiola
+
 ````
 
 ## Languages
