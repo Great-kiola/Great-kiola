@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Great-kiola
+- 💗 coding
 - 🎓 Computer science @ [Qmul](https://www.qmul.ac.uk/)
 - 🌱 Learnt Web Dev @ Skills Bootcamp , now **addicted** to frontend Mentor
-- 🍀 If you don't find me reading, coding i'm probably sleeping.
-- 💗 If at first you don't succeed call it v1.0
+- 🍀 If at first you don't succeed call it v1.0.
 
 ````bash
 > linkedin: Olabode Kilaso
