@@ -6,8 +6,6 @@
 
 ````bash
 > linkedin: Olabode Kilaso
-> github: great-kiola
-> X: great-kiola
 
 ````
 
