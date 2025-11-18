@@ -6,7 +6,6 @@
 
 ````bash
 > linkedin: Olabode Kilaso
-
 ````
 
 ## Languages
