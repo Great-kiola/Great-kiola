@@ -2,7 +2,7 @@
 - 💗 coding
 - 🎓 Computer science @ [Qmul](https://www.qmul.ac.uk/)
 - 🌐 More about me: [website](https://kiola.dev/)
-- 🌱 Learnt Web Dev @ Skills Bootcamp , now **addicted** to frontend Mentor
+- 🌱 Building cool Projects
 - 🍀 If at first you don't succeed call it v1.0.
 
 ````bash
